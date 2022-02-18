@@ -13,13 +13,16 @@ license_text_file: LICENCE.txt
 about_resource: ./1_SLSTR_introductory/1_1_SLSTR_data_access.ipynb
 about_resource: ./1_SLSTR_introductory/1_2_SLSTR_file_structure.ipynb
 about_resource: ./1_SLSTR_introductory/1_3_SLSTR_coverage.ipynb
-
+about_resource: ./1_SLSTR_introductory/1_4_SLSTR_bands_imagery.ipynb
+about_resource: ./1_SLSTR_introductory/1_5_SLSTR_radiance_BT_spectra.ipynb
+about_resource: ./1_SLSTR_introductory/1_6_SLSTR_SST.ipynb
 about_resource: ./2_SLSTR_advanced/2_1_SLSTR_advanced_data_access_eumdac.ipynb
 about_resource: ./2_SLSTR_advanced/2_2_SLSTR_advanced_data_access_hda.ipynb
-
 about_resource: ./img/WEkEO_show_api_SLSTR.png
-about_resource: ./img/thumbs/
-
+about_resource: ./img/thumbs/1_3_SLSTR_coverage_thumb.png
+about_resource: ./img/thumbs/1_4_SLSTR_bands_imagery_thumb.png
+about_resource: ./img/thumbs/1_5_SLSTR_radiance_BT_spectra_thumb.png
+about_resource: ./img/thumbs/1_6_SLSTR_SST_thumb.png
 about_resource: Index.ipynb
 about_resource: learn-slstr.ABOUT
 about_resource: environment.yml
