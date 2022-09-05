@@ -26,7 +26,6 @@ wheels/
 .ipynb_checkpoints
 
 # Large data
-S3*.nc
 *.zip
 
 # OSx junk
