@@ -18,10 +18,14 @@ about_resource: ./1_SLSTR_introductory/1_4_SLSTR_bands_imagery.ipynb
 about_resource: ./1_SLSTR_introductory/1_5_SLSTR_radiance_BT_spectra.ipynb
 about_resource: ./1_SLSTR_introductory/1_6_SLSTR_SST.ipynb
 about_resource: ./2_SLSTR_advanced/2_1_SLSTR_advanced_data_access_eumdac.ipynb
-about_resource: ./2_SLSTR_advanced/2_2_SLSTR_advanced_cloud_flagging.ipynb
+about_resource: ./2_SLSTR_advanced/2_2_SLSTR_channel_comparison_cloud_flagging.ipynb
 about_resource: ./2_SLSTR_advanced/OSTIA/OSTIA_skin_temperature_18032022_0730.nc
 about_resource: ./2_SLSTR_advanced/OSTIA/OSTIA_foundation_temperature_18032022.nc
 about_resource: ./img/WEkEO_show_api_SLSTR.png
+about_resource: ./img/ag1.png
+about_resource: ./img/ag2.png
+about_resource: ./img/ag3.png
+about_resource: ./img/SST_q5_flagged_dual.png
 about_resource: ./img/thumbs/1_1a_SLSTR_data_access_Data_Store_thumb.png
 about_resource: ./img/thumbs/1_1b_SLSTR_data_access_HDA_thumb.png
 about_resource: ./img/thumbs/1_2_SLSTR_file_structure_thumb.png
@@ -30,7 +34,7 @@ about_resource: ./img/thumbs/1_4_SLSTR_bands_imagery_thumb.png
 about_resource: ./img/thumbs/1_5_SLSTR_radiance_BT_spectra_thumb.png
 about_resource: ./img/thumbs/1_6_SLSTR_SST_thumb.png
 about_resource: ./img/thumbs/2_1_SLSTR_advanced_data_access_eumdac_thumb.png
-about_resource: ./img/thumbs/2_2_SLSTR_advanced_cloud_flagging.png
+about_resource: ./img/thumbs/2_2_SLSTR_channel_comparison_cloud_flagging.png
 about_resource: AUTHORS.txt
 about_resource: Index.ipynb
 about_resource: LICENSE.txt
