@@ -34,7 +34,7 @@ about_resource: ./img/thumbs/1_4_SLSTR_bands_imagery_thumb.png
 about_resource: ./img/thumbs/1_5_SLSTR_radiance_BT_spectra_thumb.png
 about_resource: ./img/thumbs/1_6_SLSTR_SST_thumb.png
 about_resource: ./img/thumbs/2_1_SLSTR_advanced_data_access_eumdac_thumb.png
-about_resource: ./img/thumbs/2_2_SLSTR_channel_comparison_cloud_flagging.png
+about_resource: ./img/thumbs/2_2_SLSTR_channel_comparison_cloud_flagging_thumb.png
 about_resource: AUTHORS.txt
 about_resource: Index.ipynb
 about_resource: LICENSE.txt
