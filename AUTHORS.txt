@@ -13,6 +13,7 @@ Vinca Rosmorduc (CLS)
 Ana Ruescas (Brockmann Consult)
 Lauren Biermann (PML)
 Ollie Clements (PML)
+Gary Corlett (EUMETSAT)
 
 # Support
 For all queries on this software package, please contact ops@eumetsat.int
